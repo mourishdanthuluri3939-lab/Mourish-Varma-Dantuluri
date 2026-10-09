@@ -117,29 +117,3 @@ A secure, containerised financial-service application with an API, database, aut
 
 <!-- Change each item to [x] only when you can explain and demonstrate it. -->
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
-
-<!-- Optional trophies: uncomment after replacing YOUR_GITHUB_USERNAME; they are decorative, not a measure of engineering ability. -->
-<!--
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</p>
--->
-
----
-
-<p align="center"><i>Learn by building. Secure by design. Automate the repeatable. Measure what matters.</i></p>
